@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+.Text-center{
+  text-align: center;
+}
+.panel-body .btn{
+  margin: 10px;
+}
+.Text-center .btn{
+  margin: 2px;
+}
+.panel-heading{
+  background-color:  sandybrown;
+}
+.panel{
+  border-radius: 5px;
+  border: 3px solid sandybrown;
+}
+.panel-body{
+  padding: 15px;
+}
+.input-group-btn{
+  z-index: 2;
+  margin-left: -1px;
+}
+.label{
+  background-color: greenyellow;
+    border-radius: 6px;
+}
+.label2{
+  background-color:red;
+  border-radius: 6px;
+}
+table tr {
+  background-color: white !important;
+}
+.table{
+  margin-top: 15px;
+}
+.panel-heading {
+  padding: 5px 15px;
+  
+ 
+}
+.panel-heading .btn-danger{
+  margin-left: 97px;
+}
